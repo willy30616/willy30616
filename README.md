@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **dotNet Framwork**
 
-- 📝 I regularly write articles on [https://willy30616.blogspot.com/2022/](https://willy30616.blogspot.com/2022/)
+- 📝 I regularly write articles on [https://willy30616.blogspot.com/2022/](https://willy30616.blogspot.com/2022/) & [https://hackmd.io/@WillyChen/rkfIvJnDt](https://hackmd.io/@WillyChen/rkfIvJnDt) 
 
 - 💬 Ask me about **C#,Vue.js**
 
