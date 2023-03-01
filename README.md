@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **C#,Vue.js**
 
-- 📫 How to reach me **willy30616@gmail.com**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
